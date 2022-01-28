@@ -4,3 +4,6 @@ body{
 .coffee{
     text-align: center;
 }
+p{
+    width: 50%;
+}
