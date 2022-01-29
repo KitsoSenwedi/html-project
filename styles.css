@@ -1,18 +1,21 @@
 body{
     background-color: blanchedalmond;
 }   
+/*heading 1 */
 .coffee{
     text-align: center;
 }
 p{
     width: 50%;
 }
+/* image center alignment*/
 .center{
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
 }
+/*link horizontal alignment */
 .font{
     font-size: 30px;
 }
